@@ -1,2 +1,2 @@
-# split-miner
-An attempt to implement Split Miner algorithm for process mining
+# split-miner-thesis
+An attempt to implement Split Miner algorithm for process mining 
